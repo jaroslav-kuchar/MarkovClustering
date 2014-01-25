@@ -72,9 +72,7 @@
                     </test-dependency>
                 </test-type>
             </test-dependencies>
-            <public-packages>
-                <package>cz.cvut.fit.krizeji1.markov_cluster</package>
-            </public-packages>
+            <public-packages/>
             <class-path-extension>
                 <runtime-relative-path>ext/la4j-0.4.5.jar</runtime-relative-path>
                 <binary-origin>release/modules/ext/la4j-0.4.5.jar</binary-origin>

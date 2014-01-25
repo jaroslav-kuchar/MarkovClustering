@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-OpenIDE-Module: cz.cvut.fit.krizeji1.markov_cluster
+OpenIDE-Module: cz.cvut.fit.krizeji1.markov_cluster/1
+OpenIDE-Module-Implementation-Version: 1
 OpenIDE-Module-Localizing-Bundle: cz/cvut/fit/krizeji1/markov_cluster/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0
 
