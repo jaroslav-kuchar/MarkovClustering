@@ -7,7 +7,7 @@
             <suite-component/>
             <module-dependencies>
                 <dependency>
-                    <code-name-base>MultiColourRenderer</code-name-base>
+                    <code-name-base>cz.cvut.fit.krizeji1.MultiColourRenderer</code-name-base>
                     <build-prerequisite/>
                     <compile-dependency/>
                     <run-dependency>
