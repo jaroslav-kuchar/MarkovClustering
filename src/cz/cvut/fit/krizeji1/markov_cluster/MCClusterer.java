@@ -1,5 +1,6 @@
 package cz.cvut.fit.krizeji1.markov_cluster;
 
+import cz.cvut.fit.krizeji1.markov_cluster.multicolour.GraphColorizer;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -7,7 +8,6 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import cz.cvut.fit.krizeji1.multicolour.attribute.GraphColorizer;
 import org.gephi.clustering.api.Cluster;
 import org.gephi.clustering.spi.Clusterer;
 import org.gephi.data.attributes.api.AttributeColumn;
